@@ -12,10 +12,10 @@ ACO algoritması, karıncaların yiyecek kaynaklarını bulma stratejisine dayan
 GWO algoritması, gri kurt sürüsünün avlarını takip etme stratejisine dayanır. Proje, GWO algoritmasını ACO algoritmasıyla karşılaştırmak için aynı veri seti üzerinde çalıştırır.
 
 ## Projenin İşleyişi
-1- Veri seti yüklenir ve ön işlenir.
-2- ACO ve GWO algoritmaları ayrı ayrı uygulanır.
-3- Her iki algoritmanın seçtiği en iyi özellikler ve doğruluk değerleri karşılaştırılır.
-4- Sonuçlar raporlanır.
+1. Veri seti yüklenir ve ön işlenir.
+2. ACO ve GWO algoritmaları ayrı ayrı uygulanır.
+3. Her iki algoritmanın seçtiği en iyi özellikler ve doğruluk değerleri karşılaştırılır.
+4. Sonuçlar raporlanır.
 
 ## Kullanım
 Proje dosyalarını indirdikten sonra, Python ortamında proje dosyalarını çalıştırabilirsiniz. Her iki algoritmanın sonuçları ve karşılaştırmaları çıktı olarak görüntülenecektir.
